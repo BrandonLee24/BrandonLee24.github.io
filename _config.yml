@@ -11,3 +11,5 @@ github_username: BrandonLee24
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
