@@ -4,6 +4,7 @@ title: Second Browns Post!
 date: 2018-01-27 01:05:01 -0600
 category: News
 author: Tyler Lee
+thumbnail: logo-alternate.png
 ---
 
 Browns are going to win the super bowl in 2020.

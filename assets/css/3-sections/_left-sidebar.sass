@@ -1,0 +1,42 @@
+#left-sidebar
+  position: absolute
+  z-index: 2
+  width: 18%
+  padding: 20px 0
+
+  .left-sidebar-content
+    background-color: $theme-primary
+    height: calc(100vh - 90px)
+    border-right: 3px solid $theme-secondary
+    border-top: 3px solid $theme-secondary
+    border-bottom: 3px solid $theme-secondary
+    overflow: hidden
+
+    .left-sidebar-title
+      color: $theme-tertiary
+      text-align: center
+      padding: 10px
+  
+    .left-sidebar-headshot
+      max-width: 80%
+      border-radius: 50%
+      background-color: $theme-secondary
+
+    ul
+      color: $theme-tertiary
+
+    .social-icons
+      text-align: center
+      padding: 10px 0
+
+      svg
+        margin: 0 auto
+        width: 25%
+        padding: 5px
+      
+        path
+          fill: $theme-tertiary
+
+@media screen and (max-width: 1000px)
+  #left-sidebar
+    display: none

@@ -36,7 +36,11 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 48px;
-  font-family: "nfl-browns-2015"; }
+  font-family: "nfl-browns-2015";
+  color: #342624; }
+
+h2, h3, h4, h5, h6 {
+  font-family: "exo"; }
 
 p {
   color: #342624;
@@ -44,14 +48,20 @@ p {
 
 a {
   text-decoration: none;
-  color: #342624; }
+  color: #FFFFFF; }
 
 ul, li {
   margin: 0; }
 
+img {
+  margin: 0 auto;
+  display: block;
+  max-width: 100%; }
+
 footer {
   background-color: #342624;
-  width: 100%; }
+  width: 100%;
+  border-top: 3px solid #EC5614; }
   footer #copyright {
     color: #FFFFFF;
     text-align: center;
@@ -65,40 +75,154 @@ footer {
       footer ul li a {
         color: #FFFFFF; }
 
+#left-sidebar {
+  position: absolute;
+  z-index: 2;
+  width: 18%;
+  padding: 20px 0; }
+  #left-sidebar .left-sidebar-content {
+    background-color: #EC5614;
+    height: calc(100vh - 90px);
+    border-right: 3px solid #342624;
+    border-top: 3px solid #342624;
+    border-bottom: 3px solid #342624;
+    overflow: hidden; }
+    #left-sidebar .left-sidebar-content .left-sidebar-title {
+      color: #FFFFFF;
+      text-align: center;
+      padding: 10px; }
+    #left-sidebar .left-sidebar-content .left-sidebar-headshot {
+      max-width: 80%;
+      border-radius: 50%;
+      background-color: #342624; }
+    #left-sidebar .left-sidebar-content ul {
+      color: #FFFFFF; }
+    #left-sidebar .left-sidebar-content .social-icons {
+      text-align: center;
+      padding: 10px 0; }
+      #left-sidebar .left-sidebar-content .social-icons svg {
+        margin: 0 auto;
+        width: 25%;
+        padding: 5px; }
+        #left-sidebar .left-sidebar-content .social-icons svg path {
+          fill: #FFFFFF; }
+
+@media screen and (max-width: 1000px) {
+  #left-sidebar {
+    display: none; } }
 #main-content {
   height: calc(100vh - 50px);
   overflow: auto; }
   #main-content .article-content {
     height: 100%;
-    max-width: 800px;
+    max-width: 60%;
     margin: 0 auto;
     padding: 10px; }
     #main-content .article-content .article {
-      margin: 10px;
-      border: 3px solid #342624; }
-      #main-content .article-content .article .article-title {
-        padding-top: 10px;
-        padding-left: 20px; }
-      #main-content .article-content .article .article-category {
-        padding-left: 20px; }
-      #main-content .article-content .article .article-author {
-        padding-left: 20px;
-        padding-bottom: 10px; }
+      margin: 10px 0;
+      border: 3px solid #342624;
+      display: flex; }
+      #main-content .article-content .article .article-left {
+        width: 60%;
+        display: inline; }
+        #main-content .article-content .article .article-left .article-title {
+          padding-top: 10px;
+          padding-left: 20px; }
+        #main-content .article-content .article .article-left .article-category {
+          padding-left: 20px; }
+        #main-content .article-content .article .article-left .article-author {
+          padding-left: 20px;
+          padding-bottom: 10px; }
+      #main-content .article-content .article .article-center {
+        width: 15%;
+        display: inline;
+        text-align: center; }
+        #main-content .article-content .article .article-center .article-month {
+          display: none; }
+        #main-content .article-content .article .article-center .article-day {
+          display: none; }
+      #main-content .article-content .article .article-right {
+        width: 25%;
+        display: inline;
+        max-height: 100%; }
+        #main-content .article-content .article .article-right img {
+          width: 100%;
+          height: 100%;
+          overflow: hidden;
+          object-fit: cover;
+          max-height: 100%; }
+    #main-content .article-content button {
+      padding: 0;
+      display: flex;
+      background-color: transparent;
+      border: none;
+      width: 100%; }
+      #main-content .article-content button .article-read-more {
+        margin: 10px 0;
+        background-color: #EC5614;
+        color: #FFFFFF;
+        border: 3px solid #342624;
+        padding: 10px 0;
+        width: 100%; }
 
+@media screen and (max-width: 1000px) {
+  #main-content .article-content {
+    max-width: 80%;
+    margin: 0; } }
+@media screen and (max-width: 600px) {
+  #main-content .article-content {
+    max-width: 100%;
+    margin: 0; } }
 #navbar {
   height: 50px;
   background: #EC5614;
-  width: 100%; }
+  width: 100%;
+  border-bottom: 3px solid #342624;
+  border-top: 3px solid #342624; }
   #navbar #navbar-title {
     font-family: "nfl-browns-2015";
     text-align: center;
     color: #FFFFFF; }
 
+#right-sidebar {
+  position: absolute;
+  right: 0%;
+  z-index: 2;
+  width: 18%;
+  padding: 20px 0; }
+  #right-sidebar .right-sidebar-content {
+    background-color: #342624;
+    height: calc(100vh - 90px);
+    border-left: 3px solid #EC5614;
+    border-top: 3px solid #EC5614;
+    border-bottom: 3px solid #EC5614;
+    overflow: hidden; }
+    #right-sidebar .right-sidebar-content .right-sidebar-title {
+      color: #FFFFFF;
+      text-align: center;
+      padding: 10px; }
+    #right-sidebar .right-sidebar-content ul {
+      color: #FFFFFF; }
+
+@media screen and (max-width: 600px) {
+  #right-sidebar {
+    display: none; } }
 .post-content {
-  max-width: 800px;
+  max-width: 60%;
   margin: 0 auto;
-  padding: 10px; }
+  padding: 10px;
+  height: calc(100vh - 70px);
+  overflow: auto; }
   .post-content .post-title {
     color: #342624; }
+
+@media screen and (max-width: 1000px) {
+  .post-content {
+    max-width: 80%;
+    margin: 0; } }
+@media screen and (max-width: 600px) {
+  .post-content {
+    max-width: 100%;
+    margin: 0; } }
 
 /*# sourceMappingURL=main.css.map */

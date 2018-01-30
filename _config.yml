@@ -1,6 +1,7 @@
 # Site settings
 title: Browns Fan 
-description: Cleveland Browns Loyalist Blogger 
+description: Cleveland Browns Loyalist Blogger
+author: Brandon Lee
 baseurl: ""
 url: "https://BrandonLee24.github.io"
 #paginate: 5 
@@ -11,6 +12,7 @@ twitter: BrandonLee24
 github: BrandonLee24
 
 permalink: /:title
+include: ['_pages']
 
 # Google Analytics
 analytics_id: ""
