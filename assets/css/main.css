@@ -82,7 +82,7 @@ footer {
   padding: 20px 0; }
   #left-sidebar .left-sidebar-content {
     background-color: #EC5614;
-    height: calc(100vh - 90px);
+    height: calc(100vh - 102px);
     border-right: 3px solid #342624;
     border-top: 3px solid #342624;
     border-bottom: 3px solid #342624;
@@ -163,7 +163,7 @@ footer {
       border: none;
       width: 100%; }
       #main-content .article-content button .article-read-more {
-        margin: 10px 0;
+        margin: 0 0 10px;
         background-color: #EC5614;
         color: #FFFFFF;
         border: 3px solid #342624;
@@ -197,7 +197,7 @@ footer {
   padding: 20px 0; }
   #right-sidebar .right-sidebar-content {
     background-color: #342624;
-    height: calc(100vh - 90px);
+    height: calc(100vh - 102px);
     border-left: 3px solid #EC5614;
     border-top: 3px solid #EC5614;
     border-bottom: 3px solid #EC5614;
