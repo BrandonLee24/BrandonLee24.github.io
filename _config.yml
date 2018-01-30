@@ -1,26 +1,16 @@
 # Site settings
-title: Brownies 
-description: Cleveland Browns blog posts. 
-cover: assets/images/cover.jpg
-logo: assets/images/logo.png
-favicon: assets/images/favicon.png
-baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://samanyougarg.com" # the base hostname & protocol for your site
-paginate: 5 # The number of posts to show per page on your homepage
+title: Browns Fan 
+description: Cleveland Browns Loyalist Blogger 
+baseurl: ""
+url: "https://BrandonLee24.github.io"
+#paginate: 5 
 
 # Social
 facebook: BrandonLee24
 twitter: BrandonLee24
 github: BrandonLee24
 
-#Additional Pages
-about: about
-contact: contact
-privacy-policy: privacy-policy
-
-
 permalink: /:title
-
 
 # Google Analytics
 analytics_id: ""
@@ -31,27 +21,9 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
 
-plugins:
-  - jekyll-paginate
-
-
-# Settings for rake task
-safe: False
-lsi: False
-username: samanyougarg #github username
-repo: hanuman #github repository
-branch: master #branch
-relative_source: ../hanuman/ #source directory
-destination: ../hanuman-pages/ #destination directory
-production_url:  https://samanyougarg.com/
-source_url:  https://github.com/samanyougarg/hanuman #source repository url
+#plugins:
+#  - jekyll-paginate
 
 exclude:
   - README.md
-  - Rakefile
-  - Gemfile
-  - Gemfile.lock
-  - changelog.md
-  - "*.Rmd"
-  - vendor
-  - .travis.yml
+  - LICENSE

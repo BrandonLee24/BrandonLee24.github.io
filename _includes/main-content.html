@@ -1,0 +1,19 @@
+<section id="main-content">
+
+    <div class="article-content">
+
+        {% for post in site.posts %}
+
+        <div class="article">
+            <a href="{{ post.url | prepend: site.baseurl }}">
+                <h1 class="article-title">{{ post.title }}</h1>
+            </a>
+            <h4 class="article-category">Category: {{ post.category }}</h4>
+            <h4 class="article-author">Author: {{ post.author }}</h4>
+        </div>
+
+        {% endfor %} 
+
+    </div>
+
+</section>

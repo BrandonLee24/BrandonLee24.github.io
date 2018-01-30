@@ -1,0 +1,103 @@
+@font-face {
+  font-family: "nfl-browns-2015";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/assets/fonts/NFL_Browns_2015.woff") format("woff"); }
+@font-face {
+  font-family: "exo";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/assets/fonts/Exo-Regular.ttf") format("truetype"); }
+@font-face {
+  font-family: "exo";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/assets/fonts/Exo-Bold.ttf") format("truetype"); }
+@font-face {
+  font-family: "exo";
+  font-style: italic;
+  font-weight: 400;
+  src: url("/assets/fonts/Exo-Italic.ttf") format("truetype"); }
+html {
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0; }
+
+body {
+  background-color: #F0EAD6;
+  font-family: "exo", sans-serif;
+  margin: 0;
+  padding: 0; }
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0; }
+
+h1 {
+  font-size: 48px;
+  font-family: "nfl-browns-2015"; }
+
+p {
+  color: #342624;
+  margin: 0; }
+
+a {
+  text-decoration: none;
+  color: #342624; }
+
+ul, li {
+  margin: 0; }
+
+footer {
+  background-color: #342624;
+  width: 100%; }
+  footer #copyright {
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px; }
+  footer ul {
+    padding: 10px;
+    text-align: center; }
+    footer ul li {
+      display: inline;
+      padding: 10px; }
+      footer ul li a {
+        color: #FFFFFF; }
+
+#main-content {
+  height: calc(100vh - 50px); }
+  #main-content .article-content {
+    height: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px; }
+    #main-content .article-content .article {
+      margin: 10px;
+      border: 3px solid #342624; }
+      #main-content .article-content .article .article-title {
+        padding-top: 10px;
+        padding-left: 20px; }
+      #main-content .article-content .article .article-category {
+        padding-left: 20px; }
+      #main-content .article-content .article .article-author {
+        padding-left: 20px;
+        padding-bottom: 10px; }
+
+#navbar {
+  height: 50px;
+  background: #EC5614;
+  width: 100%; }
+  #navbar #navbar-title {
+    font-family: "nfl-browns-2015";
+    text-align: center;
+    color: #FFFFFF; }
+
+.post-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 10px; }
+  .post-content .post-title {
+    color: #342624; }
+
+/*# sourceMappingURL=main.css.map */
