@@ -94,7 +94,8 @@ footer {
     #left-sidebar .left-sidebar-content .left-sidebar-headshot {
       max-width: 80%;
       border-radius: 50%;
-      background-color: #342624; }
+      background-color: #342624;
+      border: 3px solid #FFFFFF; }
     #left-sidebar .left-sidebar-content ul {
       color: #FFFFFF; }
     #left-sidebar .left-sidebar-content .social-icons {
