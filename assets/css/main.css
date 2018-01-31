@@ -249,6 +249,8 @@ footer {
     color: #342624; }
   .post-content .post-author {
     padding: 0 0 10px; }
+  .post-content a {
+    color: #EC5614; }
 
 @media screen and (max-width: 1000px) {
   .post-content {
