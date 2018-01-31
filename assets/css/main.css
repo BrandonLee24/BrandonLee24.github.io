@@ -247,6 +247,8 @@ footer {
   -webkit-overflow-scrolling: touch; }
   .post-content .post-title {
     color: #342624; }
+  .post-content .post-author {
+    padding: 0 0 10px; }
 
 @media screen and (max-width: 1000px) {
   .post-content {
