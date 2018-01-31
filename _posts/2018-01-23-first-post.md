@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Browns Post!
-date: 2018-01-23 01:05:01 -0600
+date: 2018-01-23 12:00
 category: News
 author: Tyler Lee
 thumbnail: logo.png

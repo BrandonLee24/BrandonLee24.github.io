@@ -10,8 +10,8 @@
                 <a href="{{ post.url | prepend: site.baseurl }}">
                     <h1 class="article-title">{{ post.title }}</h1>
                 </a>
-                <h4 class="article-category">Category: {{ post.category }}</h4>
-                <h4 class="article-author">Author: {{ post.author }}</h4>
+                <h4 class="article-category">Category: <span>{{ post.category }}</span></h4>
+                <h4 class="article-author">Author: <span>{{ post.author }}</span></h4>
             </div>
 
             <div class="article-center">

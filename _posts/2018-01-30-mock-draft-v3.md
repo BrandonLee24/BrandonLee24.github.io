@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mock Draft v3
-date: 2018-01-27 01:05:01 -0600
+date: 2018-01-27 01:03
 category: Draft
 author: Tyler Lee
 thumbnail: sam-darnold-browns.jpg

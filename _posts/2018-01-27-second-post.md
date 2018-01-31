@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Second Browns Post!
-date: 2018-01-27 01:05:01 -0600
+date: 2018-01-24 12:00
 category: News
 author: Tyler Lee
 thumbnail: logo-alternate.png
