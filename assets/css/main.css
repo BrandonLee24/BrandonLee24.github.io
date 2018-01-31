@@ -88,7 +88,7 @@ footer {
     border-bottom: 3px solid #342624;
     overflow: hidden; }
     #left-sidebar .left-sidebar-content .left-sidebar-title {
-      color: #FFFFFF;
+      color: #342624;
       text-align: center;
       padding: 10px; }
     #left-sidebar .left-sidebar-content .left-sidebar-headshot {
@@ -228,7 +228,7 @@ footer {
     border-bottom: 3px solid #EC5614;
     overflow: hidden; }
     #right-sidebar .right-sidebar-content .right-sidebar-title {
-      color: #FFFFFF;
+      color: #EC5614;
       text-align: center;
       padding: 10px; }
     #right-sidebar .right-sidebar-content ul {
