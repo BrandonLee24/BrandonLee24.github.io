@@ -9,6 +9,7 @@
     padding: 10px
     overflow-y: scroll
     -webkit-overflow-scrolling: touch
+
     .article
       margin: 10px 0
       border: 3px solid $theme-secondary
@@ -31,14 +32,31 @@
 
       .article-center
         width: 15%
-        display: inline
-        text-align: center
+        display: block
+        color: $theme-primary
+        position: relative
 
         .article-month
-          display: none
+          font-size: 20px
+          position: absolute
+          top: 20%
+          left: 50%
+          transform: translate(-50%, -50%)
+
         .article-day
-          display: none
+          font-size: 42px
+          font-weight: 700
+          position: absolute
+          top: 50%
+          left: 50%
+          transform: translate(-50%, -50%)
+
         .article-year
+          font-size: 20px
+          position: absolute
+          top: 80%
+          left: 50%
+          transform: translate(-50%, -50%)
 
       .article-right
         width: 25%
@@ -52,6 +70,8 @@
           overflow: hidden
           object-fit: cover
           max-height: 100%
+          -webkit-mask-image: -webkit-gradient(linear, left top, right top, from(rgba(0,0,0,0)), to(rgba(0,0,0,1)))
+
 
     button
       padding: 0

@@ -16,13 +16,13 @@
 
             <div class="article-center">
                 <div class="article-month">
-                    {{ post.date }}
+                    {{ post.date | date: '%b' }}
                 </div>
                 <div class="article-day">
-                    {{ post.date }}
+                    {{ post.date | date: '%d' }}
                 </div>
                 <div class="article-year">
-                    {{ post.date }}
+                    {{ post.date | date: '%Y' }}
                 </div>
             </div>
 
