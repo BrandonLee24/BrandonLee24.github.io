@@ -7,7 +7,7 @@ author: Brandon Lee
 thumbnail: logo.png
 ---
 
-##**Round 1**
+##Round 1
 <BR>
 **1**  Sam Darnold  QB  USC
 <BR>
@@ -15,7 +15,7 @@ thumbnail: logo.png
 
 <BR>
 
-##**Round 2**
+##Round 2
 <BR>
 **33**  James Washington  WR  OKST
 <BR>
