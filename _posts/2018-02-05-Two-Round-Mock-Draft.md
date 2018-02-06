@@ -8,12 +8,17 @@ thumbnail: logo.png
 ---
 
 ##**Round 1**
+<BR>
 **1**  Sam Darnold  QB  USC
+<BR>
 **4**  Minkah Fitzpatrick  ALA
 
 <BR>
 
 ##**Round 2**
+<BR>
 **33**  James Washington  WR  OKST
+<BR>
 **35**  Sony Michel  RB  UGA
+<BR>
 **64** Mitch Hyatt  OT  CLE
