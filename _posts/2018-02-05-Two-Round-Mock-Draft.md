@@ -19,4 +19,4 @@ thumbnail: logo.png
 
 **35**  Sony Michel  _RB UGA_
 
-**64** Mitch Hyatt  _OTCLE_
+**64** Mitch Hyatt  _OT CLE_
