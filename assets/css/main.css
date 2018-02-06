@@ -183,7 +183,7 @@ footer {
           transform: translate(-50%, -50%); }
     #main-content .article-content button {
       padding: 0;
-      display: flex;
+      display: none;
       background-color: transparent;
       border: none;
       width: 100%; }
