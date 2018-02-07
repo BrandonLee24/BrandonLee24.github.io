@@ -12,7 +12,7 @@ thumbnail: logo.png
 
 **4**  Minkah Fitzpatrick  _FS ALA_
 
-<BR>
+<br>
 
 ## Round 2
 **33**  James Washington  _WR OKST_
@@ -20,3 +20,5 @@ thumbnail: logo.png
 **35**  Sony Michel  _RB UGA_
 
 **64** Mitch Hyatt  _OT CLE_
+
+

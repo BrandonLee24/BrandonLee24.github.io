@@ -58,6 +58,18 @@ img {
   display: block;
   max-width: 100%; }
 
+table {
+  text-align: center;
+  border: 3px solid #342624; }
+  table th {
+    background-color: #342624;
+    color: #FFFFFF;
+    padding: 10px; }
+  table td {
+    background-color: #EC5614;
+    color: #342624;
+    padding: 10px; }
+
 footer {
   background-color: #342624;
   width: 100%;
