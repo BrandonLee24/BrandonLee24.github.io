@@ -76,3 +76,7 @@ How he is still in 1 piece is a miracle. At the age of 38, McCown has taken some
 #### Expected Team: Chicago Bears
 
 McCown previously played for the Bears, from 2011-2013, and he would make sense for them to sign. The Bears have their quarterback of the future in 2nd overall pick Mitchell Tribusky, but he did not perform up to expectations last year and could use a vetran to guide him this offseason and throughout the year. The bears will likely sign McCown to be their backup as well, replacing the underachieving Mike Glennon. 
+
+<BR>
+<BR>
+  
