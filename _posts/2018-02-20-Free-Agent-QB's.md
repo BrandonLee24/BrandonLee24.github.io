@@ -13,7 +13,8 @@ Cousins leads the free agent quarterbacks, and despite only holding a career 24-
 
 <BR>
 
-####Expected Team: New York Jets
+#### Expected Team: New York Jets
+
 The Jets have a youthful roster and the 6th pick in the draft, and with their cap situation, close to 100 million, expect them to literally throw money at Cousins.
 
 <BR>
