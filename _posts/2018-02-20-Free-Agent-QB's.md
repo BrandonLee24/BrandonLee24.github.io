@@ -15,7 +15,7 @@ Cousins leads the free agent quarterbacks, and despite only holding a career 24-
 
 #### Expected Team: New York Jets
 
-The Jets have a youthful roster and the 6th pick in the draft, and with their cap situation, close to 100 million, expect them to literally throw money at Cousins.
+The Jets have a youthful roster and the 6th pick in the draft, and with their cap situation, close to 100 million, expect them to literally throw money at Cousins. With Alex Smith committed to signing, the Redskins will wave goodbye to the Kirk Cousins Era.
 
 <BR>
 
@@ -33,7 +33,16 @@ The Cleveland Brown, owners of an 0-16 record, attempted to trade for McCarron a
 
 ## Case Keenum
 
+One of the most polarizing and unexpected stars of the 2017 season, Keenum hits free agency along with 2 other Vikings. He posted an impressive 98.3 rating in 2017, completing 67.6 percent of his passes for 22 touchdowns and 7 interceptions. Keenum was able to lead the Vikings to the NFC championship game once Sam Bradford went down for the season. The career backup, Keenum was signed for just 2 million dollars as a saftey valve last year, but now commands a large contract and a starting spot. The 30 year old holds the record amond NCAA Division 1 FBS career passing yards leaders with 19,217, and passed for over 3 and a half thousand yards in 15 games last year. Expect the former undrafted free agent to find a hefty contract this season.
+
+#### Expected Team: Minnesota Vikings
+
+After taking the reigns and leading the Vikings to the NFC Championship, Minnesota will not be able to let him walk. Keenum was stable all year and did not turn the ball over, a skill coveted by teams across the league. Also, unlike Bradford and Bridgewater, Keenum has the least injury history. The 6 year pro will stay in town and maintain the starting job. 
+
+<BR>
+
 ## Teddy Bridgewater
+
 
 ## Sam Bradford
 
