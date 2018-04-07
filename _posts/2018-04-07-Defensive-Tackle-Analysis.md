@@ -51,7 +51,7 @@ Faulk was signed in January after the Jets waived him last season and will compe
 
 <br>
 
-###Additional Aquisitions
+### Additional Aquisitions:
 
 The Browns are young at defensive tackle and have hopes that the group will improve, but they definitely should look to add another playmaker here, particularly someone who can penetrate and get after the quarterback. The draft offers multiple options and at worst, the Browns should aquire another depth player.
 
@@ -61,4 +61,4 @@ The Browns are young at defensive tackle and have hopes that the group will impr
 
 <br>
 
-Despite being young and having some talented, the group is not proven and has very little depth. The Browns need to find another talent here, whether in the draft, a trade, or a free-agent, whom is athletic and can increase competition and disrupt the quarterback. If the Browns draft a player such as Bradley Chubb, he, Myles Garrett, and Emanuel Ogbah could all see the field on third downs.
+Despite being young and having some talented, the group is not proven and has very little depth. The Browns need to find another talent here, whether in the draft, a trade, or a free-agent, whom is athletic and can increase competition and disrupt the quarterback. If the Browns draft a player such as Bradley Chubb, he, Myles Garrett, and Emanuel Ogbah could all see the field on third downs, meaning likely only one defensive tackle would be playing at that time.
