@@ -15,7 +15,7 @@ permalink: /:title
 include: ['_pages']
 
 # Google Analytics
-analytics_id: ""
+analytics_id: "UA-117146766-1"
 
 # Build settings
 markdown: kramdown
