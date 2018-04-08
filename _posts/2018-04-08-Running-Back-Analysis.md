@@ -48,3 +48,15 @@ Signed by the Browns in January, Taylor finds himself on his 3rd team in just 2 
 The speedy Jackson, who ran a 4.39 40 yard dash at his pro day at Eastern Michigan, has never received a snap at running back in his NFL career. Claimed by the Browns last season, Jackson spent the year on the IR. With his speed, Jackson could hope to earn a special teams slot but it is unlikely he will become anything more.
 
 #### Roster Chance: 5%
+
+<br>
+
+### Additional Aquisitions
+
+With Carlos Hyde and Duke Johnson, the Browns have a formidable duo in the backfield but they could look to add a rookie into the mix whom would compete with Dayes for the final running back spot and potentially a special teams spot. While may have predicted the Browns will take Saquon Barkley, I expect the Browns to look for a second round running back, or trade back into the third round and look for a sleeper. John Dorsey selected Kareem Hunt in the 3rd round last year and could look to find another Jem again this season.
+
+<br>
+
+### Postion Grade - B+
+
+Hyde is a strong back whom can take a lot of carries and should excell in the Browns scheme. Newly hired offensive coordinator Todd Haley did wonders with Le'veon Bell and should help Hyde and the Browns run game. Duke Johnson will continue to play the roll of a pass catcher and change of pace back, especially on 3rd downs, and can be used as a slot receiver as well. With both of these players and likely another rookie, Haley should make this backfield a strength of the Browns, taking some pressure off Tyrod Taylor.
