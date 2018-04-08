@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fullback Analysis
-date: 2018-04-07 12:00
+date: 2018-04-08 12:00
 category: Analysis
 author: Brandon Lee
 thumbnail: logo.png
