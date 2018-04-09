@@ -4,7 +4,7 @@ title: Defensive End Analysis
 date: 2018-04-08 12:00
 category: Analysis
 author: Brandon Lee
-thumbnail: Myles Garrett JPEG.jpg
+thumbnail: logo.png
 ---
 
 ## Defensive End
