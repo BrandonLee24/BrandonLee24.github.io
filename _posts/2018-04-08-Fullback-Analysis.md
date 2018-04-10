@@ -33,6 +33,6 @@ Look for the Browns to sign or possibly even draft a fullback late, one who will
 
 <br>
 
-### Position Grade - C+
+### Position Grade: C+
 
 While Vitale is a solid NFL fullback, he is nothing special and may not be used at all with Carlos Hyde and Duke Johnson. If the Browns continue to use the shotgun formation, fullback becomes less of a need, if one at all. The Browns may sign a fullback who competes and earns a spot as well, but if one is to make the roster, it will most likely be because of special teams reasons.
