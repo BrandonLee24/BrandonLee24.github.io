@@ -35,7 +35,7 @@ Following the trades of Cody Kessler and Kevin Hogan, the Browns only have 2 qua
 
 <br>
 
-### Position Grade - B
+### Position Grade: B
 
 Despite the aquisitons, Taylor has never been able to raise his ceiling, and Stanton has been extremely inconsistent and struggles to run an NFL offense. While this is by far the best this position has been in years, there is still room to improve, starting with the draft and the development of a rookie quarterback.
 
