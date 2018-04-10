@@ -57,6 +57,6 @@ Despite having a solid, young nucleus, the Browns are potentially in position to
 
 <br>
 
-### Position Grade - A-
+### Position Grade: A-
 
 With the phenome Myles Garrett and the run-stopping Emanuel Ogbah, the Browns defensive front looks to be loaded for years to come. If the two are able to stay healthy they should carve offensive lines for a long time. If another solid player is brough in and Nassib and Smith are able to develop and improve, this group could be deep and extremely strong. Paired with Coley, Ogunjobi, and Brantley, the Browns have an intriguing, youthful front 4, which should excell in stopping the run. If Chubb or another playmaker is brought in or the backups improve, three defensive ends could be seen on third down packages, ensuring that the quarterback is pressered and fazed.
