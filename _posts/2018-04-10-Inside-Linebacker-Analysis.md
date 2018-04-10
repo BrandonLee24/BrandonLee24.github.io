@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inside Linebacker Analysis
-date: 2018-04-1 12:00
+date: 2018-04-10 12:00
 category: Analysis
 author: Brandon Lee
 thumbnail: logo.png
