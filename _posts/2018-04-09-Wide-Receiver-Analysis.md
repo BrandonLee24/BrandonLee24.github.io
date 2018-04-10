@@ -113,6 +113,6 @@ The Browns went out and signed a 3 time pro bowl receiver in Jarvis Landry, but 
 
 <br>
 
-### Position Grade - B-
+### Position Grade: B-
 
 While Landry, Gordon, and Coleman is a strong trio, the Browns ar relying too much on unreliable players (Gordon and Coleman). With all three on the field, Taylor should be content and will easily find open options, but there is a great chance at least one of these players misses time this upcoming season. Also, with inconsistent and lackluster performance from their 2016 late draft picks (Higgins and Louis), the Browns are not extremely deep and have a steep drop off in talent after the starters.
