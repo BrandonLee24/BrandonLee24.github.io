@@ -57,6 +57,6 @@ With Carlos Hyde and Duke Johnson, the Browns have a formidable duo in the backf
 
 <br>
 
-### Postion Grade - B+
+### Postion Grade: B+
 
 Hyde is a strong back whom can take a lot of carries and should excell in the Browns scheme. Newly hired offensive coordinator Todd Haley did wonders with Le'veon Bell and should help Hyde and the Browns run game. Duke Johnson will continue to play the roll of a pass catcher and change of pace back, especially on 3rd downs, and can be used as a slot receiver as well. With both of these players and likely another rookie, Haley should make this backfield a strength of the Browns, taking some pressure off Tyrod Taylor.
