@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cornerback Analysis
-date: 2018-04-12 12:00
+date: 2018-04-11 12:00
 category: Analysis
 author: Brandon Lee
 thumbnail: logo.png
