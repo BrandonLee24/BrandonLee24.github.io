@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WOffensive Tackle Analysis
+title: Offensive Tackle Analysis
 date: 2018-04-11 12:00
 category: Analysis
 author: Brandon Lee
