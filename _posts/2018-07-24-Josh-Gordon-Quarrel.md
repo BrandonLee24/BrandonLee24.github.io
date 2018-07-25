@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Training Camp
-date: 2018-07-15 12:00
+title: Josh Gordon Quarrel
+date: 2018-07-24 12:00
 category: Analysis
 author: Brandon Lee
 thumbnail: logo.png
