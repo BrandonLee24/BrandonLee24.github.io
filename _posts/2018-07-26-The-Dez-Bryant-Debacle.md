@@ -2,7 +2,7 @@
 layout: post
 title: The Dez Bryant Debacle
 date: 2018-07-26 12:00
-category: Analysis
+category: Rumors
 author: Brandon Lee
 thumbnail: logo.png
 ---
