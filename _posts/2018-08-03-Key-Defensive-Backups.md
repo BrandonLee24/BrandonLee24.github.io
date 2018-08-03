@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Key Defensive Backups
-date: 2018-08-02 12:00
+date: 2018-08-03 12:00
 category: Analysis
 author: Brandon Lee
 thumbnail: logo.png
