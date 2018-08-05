@@ -13,16 +13,16 @@ Before the Browns partake in any preseason games, I predict whom will make the 5
 
 ### Quarterback
 
-Tyrod Taylor
-Baker Mayfield
+Tyrod Taylor,
+Baker Mayfield,
 Drew Stanton
 
 <br>
 
 ### Running Back 
 
-Carlos Hyde
-Nick Chubb
+Carlos Hyde,
+Nick Chubb,
 Duke Johnson
 
 <br>
@@ -35,95 +35,95 @@ Dan Vitale
 
 ### Wide Receiver
 
-Jarvis Laundry
-Josh Gordon
-Corey Coleman
-Antonio Callaway
-Rashard Higgins
-Jeff Janis
+Jarvis Laundry,
+Josh Gordon,
+Corey Coleman,
+Antonio Callaway,
+Rashard Higgins,
+Jeff Janis,
 CJ Board
 
 <br>
 
 ### Tight End
 
-David Njoku
-Seth Devalve
+David Njoku,
+Seth Devalve,
 Darren Fells
 
 <br>
 
 ### Offensive Line
 
-Joel Bitonio
-Austin Corbett
-JC Tretter
-Kevin Zeitler
-Chris Hubbard
-Shon Coleman
-Spencer Drango 
-Austin Reiter
+Joel Bitonio,
+Austin Corbett,
+JC Tretter,
+Kevin Zeitler,
+Chris Hubbard,
+Shon Coleman,
+Spencer Drango,
+Austin Reiter,
 Desmond Harrison
 
 <br>
 
 ### Defensive End
 
-Myles Garrett
-Emmanuel Ogbah
-Chris Smith
-Chad Thomas
+Myles Garrett,
+Emmanuel Ogbah,
+Chris Smith,
+Chad Thomas,
 Carl Nassib
 
 <br>
 
 ### Defensive Tackle
 
-Larry Ogunjobi
-Trevon Coley
-Caleb Brantley
+Larry Ogunjobi,
+Trevon Coley,
+Caleb Brantley,
 Jamie Meder
 
 <br>
 
 ### Linebacker
 
-Jamie Collins
-Joe Schobert
-Christian Kirksey
-Mychal Kendricks
-Genard Avery
+Jamie Collins,
+Joe Schobert,
+Christian Kirksey,
+Mychal Kendricks,
+Genard Avery,
 James Burgess
 
 <br>
 
 ### Cornerback
 
-Denzel Ward
-Terrance Mitchell
-TJ Carrie
-EJ Gaines
+Denzel Ward,
+Terrance Mitchell,
+TJ Carrie,
+EJ Gaines,
 Simeon Thomas
 
 <br>
 
 ### Free Saftey
 
-Damarious Randall
+Damarious Randall,
 Briean Boddy-Calhoun
 
 <br>
 
 ### Strong Saftey
 
-Jabrill Peppers
+Jabrill Peppers,
 Derrick Kindred
 
 <br>
 
 ### Special Teams
 
-Britton Colquitt
-Zane Gonzalez
+Britton Colquitt,
+Zane Gonzalez,
 Charley Hughlett
 
