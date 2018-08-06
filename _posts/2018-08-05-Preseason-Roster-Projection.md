@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Preseason Roster Projection
-date: 2018-08-05 12:00
+date: 2018-08-05 12:01
 category: Analysis
 author: Brandon Lee
 thumbnail: logo.png
