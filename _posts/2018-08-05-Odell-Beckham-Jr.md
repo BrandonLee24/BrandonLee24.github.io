@@ -4,7 +4,7 @@ title: Odell Beckham Jr.
 date: 2018-08-05 12:02
 category: Rumors
 author: Brandon Lee
-thumbnail: logo.png
+thumbnail: Odell Browns.jpg
 ---
 
 With the recent trade of Corey Coleman, the absence of Josh Gordon, and the season ending injury to Ricardo Louis, the Browns could eye a trade for New York Giants receiver Odell Beckham Jr. After an offseason in which Beckham Jr. was seen with Browns players multiple times, rumors began to swirl, and while they have died down, I still believe a trade could occur.
