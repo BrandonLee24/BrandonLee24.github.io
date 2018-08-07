@@ -4,7 +4,7 @@ title: Antonio Callaway Drug Possession
 date: 2018-08-07 12:01
 category: News
 author: Brandon Lee
-thumbnail: logo.png
+thumbnail: Antonio Callaway.jpg
 ---
 
 Just as the Browns trade away Corey Coleman and put faith into their rookie Antonio Callaway, the former Florida product is cited for marijuana possession. As a Gator, Callaway had off the field issues and even failed his drug test at the combine, but throughout the offseason the rookie appeared to be doing well, earning his way to the first team offense. With Josh Gordon out, the trade of Coleman, and the loss of 2017 receiving leader Ricardo Louis to a season ending injury, the Browns front office must act swiftly and eye potential replacements.
