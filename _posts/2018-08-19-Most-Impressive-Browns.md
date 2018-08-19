@@ -44,7 +44,13 @@ I put the work backup in quotations as one or more of these players could find t
 ## Other Notable Players
 
 -Baker Mayfield
+
 -Nick Chubb
+
 -Derrck Kindred
+
 -Denzel Ward
+
 -Chris Smith
+
+
