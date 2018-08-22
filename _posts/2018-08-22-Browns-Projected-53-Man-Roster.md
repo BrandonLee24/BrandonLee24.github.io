@@ -117,7 +117,7 @@ No real surprises to this group other then undrafted free agent Desmond Harrison
 
 <br>
 
-### Defensive Lineman (8)
+### Defensive Lineman (9)
 
 Myles Garrett
 
