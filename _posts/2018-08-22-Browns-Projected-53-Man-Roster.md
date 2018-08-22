@@ -135,11 +135,13 @@ Caleb Brantley
 
 Jamie Meder
 
-Missed the Cut - Carl Nassib, Nate Orchard, Marcell Frazier, Lenny Jones, Jeremy Faulk, Blaine Woodson, Zaycoven Henderson, Daniel Ekuale
+Carl Nassib
+
+Missed the Cut - Nate Orchard, Marcell Frazier, Lenny Jones, Jeremy Faulk, Blaine Woodson, Zaycoven Henderson, Daniel Ekuale
 
 <br>
 
-Despite being featured on Hard Knocks, Carl Nassib and Nate Orchard both miss the cut due to veteran Chris Smith and rookie Chad Thomas. Nassib is capable and could earn a spot, while the coaches love Orchard's motor. Both have things to prove before they will get a spot. Jeremy Faulk could be the surpise defensive tackle to make it but Ogunjobi, Coley, and Brantley are so youthful and talented and Meder has been around so long that it would be shocking for Faulk to make it.
+Despite being featured on Hard Knocks, Nate Orchard misses the cut due to veteran Chris Smith and rookie Chad Thomas. Nassib is capable and earns a spot due to potential and more proven ability then Orchard. Jeremy Faulk could be the surpise defensive tackle to make it but Ogunjobi, Coley, and Brantley are so youthful and talented and Meder has been around so long that it would be shocking for Faulk to make it.
 
 <br>
 
@@ -175,11 +177,13 @@ T.J. Carrie
 
 E.J. Gaines
 
-Missed the Cut - Simeon Thomas, Jeremiah McKinnon, Mike Jordan, Denzel Rice, Christian Boutte.
+Simeon Thomas
+
+Missed the Cut - Jeremiah McKinnon, Mike Jordan, Denzel Rice, Christian Boutte.
 
 <br>
 
-Despite an injury which will sideline him for 3 weeks, E.J. Gaines makes it due to past experience and his proven ability. Rookie Simeon Thomas just misses out but is a practice squad canidate with his 6'3 frame. Jeremiah McKinnon has impressed this offseason as well could find himself on the practice squad. The team truly has 5 corners as Briean Boddy-Calhoun is more then capable to command a spot here but is listed as a saftey for now.
+Despite an injury which will sideline him for 3 weeks, E.J. Gaines makes it due to past experience and his proven ability. Rookie Simeon Thomas makes the team with his 6'3 frame. Jeremiah McKinnon has impressed this offseason as well and could find himself on the practice squad. The team truly has 6 corners as Briean Boddy-Calhoun is more then capable to command a spot here but is listed as a saftey for now.
 
 <br>
 
@@ -214,6 +218,4 @@ Missed the Cut - Justin Vogel, Ross Martin
 <br>
 
 Colquitt has been solid the past 2 years with the Browns and Hughlett is a lock to be the teams long snapper. Gonzalez improved last season and gets the nod with his booming leg. 
-
-
 
