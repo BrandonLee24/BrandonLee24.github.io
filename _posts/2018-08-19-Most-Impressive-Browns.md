@@ -4,7 +4,7 @@ title: Most Impressive Browns
 date: 2018-08-19 12:00
 category: Analysis
 author: Brandon Lee
-thumbnail: logo.png
+thumbnail: analysis.svg
 ---
 
 The Cleveland Browns just completed their second preseason game, losing to the Buffalo Bills 19-17. Today we will be discussing which Browns players have shined in these games and if this could be an indication of a major impact in the regular season. 
