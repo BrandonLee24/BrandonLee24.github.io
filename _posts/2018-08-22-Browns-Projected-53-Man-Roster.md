@@ -4,7 +4,7 @@ title: Browns Projected 53 Man Roster
 date: 2018-08-22 12:00
 category: Analysis
 author: Brandon Lee
-thumbnail: logo.png
+thumbnail: analysis.svg
 ---
 
 As the Cleveland Browns wrapped up training camp and are set to gear up for their third preseason game, I predict the Browns 53 man roster, describing why some players make it and why others don't.
