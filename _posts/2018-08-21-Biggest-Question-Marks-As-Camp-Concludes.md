@@ -4,7 +4,7 @@ title: Biggest Question Marks As Camp Concludes
 date: 2018-08-21 12:00
 category: Analysis
 author: Brandon Lee
-thumbnail: logo.png
+thumbnail: analysis.svg
 ---
 
 The Browns wrapped up their 18th and final day of training camp today, but as the team headed out after a day of work, questions still remain. Below we dive into the major question marks surrounding the Cleveland Browns following camp.
