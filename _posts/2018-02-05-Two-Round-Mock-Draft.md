@@ -2,7 +2,8 @@
 layout: post
 title: 2-round Mock Draft
 date: 2018-02-05 12:00
-category: [Draft, 2018]
+category: Draft
+tags: 2018
 author: Brandon Lee
 thumbnail: logo.png
 ---
