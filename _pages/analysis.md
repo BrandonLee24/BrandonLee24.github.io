@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /analysis/
+permalink: "/analysis/"
 ---
 
 <section id="main-content">
