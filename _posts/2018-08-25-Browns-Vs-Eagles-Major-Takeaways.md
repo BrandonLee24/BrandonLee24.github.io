@@ -2,7 +2,7 @@
 layout: post
 title: Browns vs Eagles Major Takeaways
 date: 2018-08-25 12:00
-category: Game Breakdown
+category: [Game Breakdowns, 2018]
 author: Brandon Lee
 thumbnail: logo.png
 ---
