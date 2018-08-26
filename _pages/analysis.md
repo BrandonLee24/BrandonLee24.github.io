@@ -1,0 +1,48 @@
+---
+layout: home
+permalink: /analysis/
+---
+
+<section id="main-content">
+
+    <div class="article-content">
+
+        {% for post in site.posts %}
+
+        <div class="article">
+
+            <div class="article-left">
+                <a href="{{ post.url | prepend: site.baseurl }}">
+                    <h1 class="article-title">{{ post.title }}</h1>
+                </a>
+                <h4 class="article-category">Category: <span>{{ post.category }}</span></h4>
+                <h4 class="article-author">Author: <span>{{ post.author }}</span></h4>
+            </div>
+
+            <div class="article-center">
+                <div class="article-month">
+                    {{ post.date | date: '%b' }}
+                </div>
+                <div class="article-day">
+                    {{ post.date | date: '%d' }}
+                </div>
+                <div class="article-year">
+                    {{ post.date | date: '%Y' }}
+                </div>
+            </div>
+
+            <div class="article-right">
+                <img src="/assets/images/{{ post.thumbnail }}"/>
+            </div>
+
+        </div>
+
+        {% endfor %} 
+
+        <button>
+            <h2 class="article-read-more">Read More</h2>
+        </button>
+
+    </div>
+
+</section>
