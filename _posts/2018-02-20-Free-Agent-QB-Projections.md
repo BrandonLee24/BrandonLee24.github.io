@@ -2,7 +2,7 @@
 layout: post
 title: Free Agent QB Projections
 date: 2018-02-20 12:00
-category: Position Analysis
+category: [Analysis, 2018]
 author: Brandon Lee
 thumbnail: logo.png
 ---
