@@ -70,6 +70,9 @@ table {
     color: #342624;
     padding: 10px; }
 
+svg path {
+  fill: #EC5614; }
+
 footer {
   background-color: #342624;
   width: 100%;
@@ -127,14 +130,19 @@ footer {
 @media screen and (max-width: 1000px) {
   #left-sidebar {
     display: none; } }
+::-webkit-scrollbar {
+  -webkit-appearance: none;
+  width: 0px; }
+
 #main-content {
   height: calc(100vh - 56px);
   overflow: auto; }
   #main-content .article-content {
+    overflow-wrap: break-word;
     height: 100%;
     max-width: 60%;
     margin: 0 auto;
-    padding: 10px;
+    padding: 10px 0px;
     overflow-y: scroll;
     -webkit-overflow-scrolling: touch; }
     #main-content .article-content .article {
@@ -188,7 +196,7 @@ footer {
           min-height: 100%;
           overflow: hidden;
           object-fit: cover;
-          -webkit-mask-image: -webkit-gradient(linear, left top, right top, from(transparent), to(black));
+          -webkit-mask-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, 0)), to(black));
           position: absolute;
           top: 50%;
           left: 50%;
