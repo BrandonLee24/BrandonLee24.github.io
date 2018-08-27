@@ -4,7 +4,7 @@ title: Cleveland Browns Injury Update
 date: 2018-08-21 12:01
 category: News
 author: Brandon Lee
-thumbnail: news.svg
+thumbnail: logo.png
 ---
 
 ## Josh Gordon
