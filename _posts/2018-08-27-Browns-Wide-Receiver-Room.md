@@ -3,7 +3,7 @@ layout: post
 title: Browns Wide Receiver Room
 date: 2018-08-27 12:00
 category: Analysis
-tags: 2018
+tags: year2
 author: Brandon Lee
 thumbnail: Browns Receivers.jpg
 ---

@@ -4,10 +4,39 @@
   width: 100%
   border-bottom: 3px solid $theme-secondary
   border-top: 3px solid $theme-secondary
+  z-index: 10
+  text-align: center
+  overflow: hidden
 
   #navbar-title
     font-family: 'nfl-browns-2015'
     text-align: center
     color: $theme-tertiary
+    display: inline-block
+    clear: both
 
-  #navbar-logo
+  .navbar-logo
+    
+    svg
+      height: 50px
+      width: 50px
+      position: relative
+      display: inline-block
+
+      path
+        fill: $theme-tertiary
+
+  #navbar-info
+    float: left
+
+  #navbar-menu
+    float: right
+
+@media screen and (min-width: 1000px)
+  #navbar-info
+    display: none
+
+@media screen and (min-width: 600px)
+  #navbar-menu
+    display: none
+  

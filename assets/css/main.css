@@ -129,7 +129,8 @@ footer {
 
 @media screen and (max-width: 1000px) {
   #left-sidebar {
-    display: none; } }
+    display: none;
+    width: 80%; } }
 ::-webkit-scrollbar {
   -webkit-appearance: none;
   width: 0px; }
@@ -142,7 +143,7 @@ footer {
     height: 100%;
     max-width: 60%;
     margin: 0 auto;
-    padding: 10px 0px;
+    padding: 10px;
     overflow-y: scroll;
     -webkit-overflow-scrolling: touch; }
     #main-content .article-content .article {
@@ -228,12 +229,34 @@ footer {
   background: #EC5614;
   width: 100%;
   border-bottom: 3px solid #342624;
-  border-top: 3px solid #342624; }
+  border-top: 3px solid #342624;
+  z-index: 10;
+  text-align: center;
+  overflow: hidden; }
   #navbar #navbar-title {
     font-family: "nfl-browns-2015";
     text-align: center;
-    color: #FFFFFF; }
+    color: #FFFFFF;
+    display: inline-block;
+    clear: both; }
+  #navbar .navbar-logo svg {
+    height: 50px;
+    width: 50px;
+    position: relative;
+    display: inline-block; }
+    #navbar .navbar-logo svg path {
+      fill: #FFFFFF; }
+  #navbar #navbar-info {
+    float: left; }
+  #navbar #navbar-menu {
+    float: right; }
 
+@media screen and (min-width: 1000px) {
+  #navbar-info {
+    display: none; } }
+@media screen and (min-width: 600px) {
+  #navbar-menu {
+    display: none; } }
 #right-sidebar {
   position: absolute;
   right: 0%;
@@ -256,7 +279,8 @@ footer {
 
 @media screen and (max-width: 600px) {
   #right-sidebar {
-    display: none; } }
+    display: none;
+    width: 80%; } }
 .post-content {
   max-width: 60%;
   margin: 0 auto;
