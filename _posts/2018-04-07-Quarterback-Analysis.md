@@ -3,6 +3,7 @@ layout: post
 title: Quarterback Analysis
 date: 2018-04-07 12:00
 category: Analysis
+tags: year2
 author: Brandon Lee
 thumbnail: logo.png
 ---

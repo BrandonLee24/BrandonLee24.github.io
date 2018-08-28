@@ -3,6 +3,7 @@ layout: post
 title: Browns Perfect Draft
 date: 2018-03-17 12:00
 category: Draft
+tags: year2
 author: Brandon Lee
 thumbnail: logo.png
 ---

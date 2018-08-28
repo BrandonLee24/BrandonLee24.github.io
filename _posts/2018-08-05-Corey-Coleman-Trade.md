@@ -3,6 +3,7 @@ layout: post
 title: Corey Coleman Trade
 date: 2018-08-05 12:01
 category: News
+tags: year2
 author: Brandon Lee
 thumbnail: CoreyColeman.png
 ---

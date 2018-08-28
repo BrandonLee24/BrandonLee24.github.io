@@ -3,6 +3,7 @@ layout: post
 title: Biggest Question Marks As Camp Concludes
 date: 2018-08-21 12:00
 category: Analysis
+tags: year2
 author: Brandon Lee
 thumbnail: logo.png
 ---

@@ -3,6 +3,7 @@ layout: post
 title: Position Analysis
 date: 2018-04-06 12:00
 category: Analysis
+tags: year2
 author: Brandon Lee
 thumbnail: logo.png
 ---

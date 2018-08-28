@@ -3,6 +3,7 @@ layout: post
 title: Versatility
 date: 2018-08-08 12:00
 category: Analysis
+tags: year2
 author: Brandon Lee
 thumbnail: logo.png
 ---

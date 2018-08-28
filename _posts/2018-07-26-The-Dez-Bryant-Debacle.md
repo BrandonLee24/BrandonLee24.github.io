@@ -3,6 +3,7 @@ layout: post
 title: The Dez Bryant Debacle
 date: 2018-07-26 12:00
 category: Rumors
+tags: year2
 author: Brandon Lee
 thumbnail: logo.png
 ---

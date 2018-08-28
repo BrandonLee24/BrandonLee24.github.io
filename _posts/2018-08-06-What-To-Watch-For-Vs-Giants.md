@@ -3,6 +3,7 @@ layout: post
 title: What to watch for vs Giants
 date: 2018-08-06 12:00
 category: Analysis
+tags: year2
 author: Brandon Lee
 thumbnail: logo.png
 ---

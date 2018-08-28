@@ -3,6 +3,7 @@ layout: post
 title: The Best Offseason Signing
 date: 2018-07-27 12:00
 category: Analysis
+tags: year2
 author: Brandon Lee
 thumbnail: logo.png
 ---

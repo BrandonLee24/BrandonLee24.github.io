@@ -3,6 +3,7 @@ layout: post
 title: EJ Gaines Injury
 date: 2018-08-19 12:02
 category: News
+tags: year2
 author: Brandon Lee
 thumbnail: E.J. Gaines.webp
 ---

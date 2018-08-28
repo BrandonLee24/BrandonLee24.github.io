@@ -3,6 +3,7 @@ layout: post
 title: Projected Defensive Starters
 date: 2018-08-01 12:00
 category: Analysis
+tags: year2
 author: Brandon Lee
 thumbnail: logo.png
 ---

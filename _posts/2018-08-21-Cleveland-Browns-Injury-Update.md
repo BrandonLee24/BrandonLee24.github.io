@@ -3,6 +3,7 @@ layout: post
 title: Cleveland Browns Injury Update
 date: 2018-08-21 12:01
 category: News
+tags: year2
 author: Brandon Lee
 thumbnail: logo.png
 ---

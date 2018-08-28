@@ -3,6 +3,7 @@ layout: post
 title: Cut your loses, literally
 date: 2018-03-17 12:00
 category: News
+tags: year2
 author: Brandon Lee
 thumbnail: logo.png
 ---

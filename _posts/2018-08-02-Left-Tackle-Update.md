@@ -3,6 +3,7 @@ layout: post
 title: Left Tackle Update
 date: 2018-08-02 12:00
 category: News
+tags: year2
 author: Brandon Lee
 thumbnail: logo.png
 ---

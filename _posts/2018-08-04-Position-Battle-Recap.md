@@ -3,6 +3,7 @@ layout: post
 title: Position Battle Recap
 date: 2018-08-04 12:00
 category: Analysis
+tags: year2
 author: Brandon Lee
 thumbnail: logo.png
 ---

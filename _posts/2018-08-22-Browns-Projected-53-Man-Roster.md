@@ -3,7 +3,7 @@ layout: post
 title: Browns Projected 53 Man Roster
 date: 2018-08-22 12:00
 category: Analysis
-tags: 2018
+tags: year2
 author: Brandon Lee
 thumbnail: logo.png
 ---

@@ -3,6 +3,7 @@ layout: post
 title: Key Offensive Backups
 date: 2018-07-31 12:00
 category: Analysis
+tags: year2
 author: Brandon Lee
 thumbnail: logo.png
 ---

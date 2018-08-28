@@ -3,6 +3,7 @@ layout: post
 title: Josh Gordon's Return
 date: 2018-08-19 12:01
 category: News
+tags: year2
 author: Brandon Lee
 thumbnail: Josh Gordon.webp
 ---

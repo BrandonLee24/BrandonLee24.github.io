@@ -3,6 +3,7 @@ layout: post
 title: Odell Beckham Jr.
 date: 2018-08-05 12:02
 category: Rumors
+tags: year2
 author: Brandon Lee
 thumbnail: odell browns.jpg
 ---

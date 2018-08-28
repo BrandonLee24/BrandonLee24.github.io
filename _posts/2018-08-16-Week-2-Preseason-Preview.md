@@ -3,6 +3,7 @@ layout: post
 title: Week 2 Preseason Preview
 date: 2018-08-16 12:00
 category: Analysis
+tags: year2
 author: Brandon Lee
 thumbnail: logo.png
 ---
