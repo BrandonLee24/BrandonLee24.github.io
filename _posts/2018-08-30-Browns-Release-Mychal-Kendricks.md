@@ -18,6 +18,8 @@ Kendricks admitted to the charges, one count of conspiracy to commit securities 
 
 Browns general manager John Dorsey released this statement: "Prior to signing Mychal, we were informed that there was a financial situation that he had been involved with in 2014. We were told Mychal had fully cooperated with investigators as a victim. From what was communicated at that time and based on the numerous questions we asked and further due diligence on our part, including checking with the league office, there was no information discovered that conveyed otherwise.
 
+<br>
+
 "Recently, we were provided an update on the matter and the circumstances have changed. We are now dealing with a different set of facts and the additional information we've gathered has led us to the decision to release Mychal from our team. Due to the ongoing legal nature of this situation, we will have no further comments."
 
 <br>
