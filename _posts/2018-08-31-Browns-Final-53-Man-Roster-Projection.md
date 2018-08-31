@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Browns Final 53 Man Roster Projection
-date: 2018-08-31 12:00
+date: 2018-08-31 12:01
 category: Analysis
 tags: year2
 author: Brandon Lee
