@@ -2,7 +2,7 @@
 layout: post
 title: Browns vs Lions Recap
 date: 2018-08-31 12:00
-category: Game Breakdown
+category: Game Breakdowns
 tags: year2
 author: Brandon Lee
 thumbnail: Browns vs Lions.jpg
