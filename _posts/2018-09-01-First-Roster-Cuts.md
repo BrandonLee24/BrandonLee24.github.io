@@ -22,6 +22,8 @@ The Cleveland Browns have cut the following players in order to trim their roste
 
 -TE Stephen Baggett
 
+-TE Devon Cajuste
+
 -OL Anthony Fabiano
 
 -OL Avery Gennesy
@@ -43,6 +45,8 @@ The Cleveland Browns have cut the following players in order to trim their roste
 -LB Brady Sheldon
 
 -CB Christian Boutte
+
+-CB Michael Jordan
 
 -S Elijah Campbell
 
