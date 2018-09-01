@@ -8,7 +8,7 @@ author: Brandon Lee
 thumbnail: logo.png
 ---
 
-The Cleveland Browns have cut the following players in order to trim their roster to 53:
+The Cleveland Browns have cut the following players in order to trim their roster to 53. Final cuts must be made by 4pm today.
 
 <br>
 
