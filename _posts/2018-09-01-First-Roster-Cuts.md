@@ -16,9 +16,19 @@ The Cleveland Browns have cut the following players in order to trim their roste
 
 -QB Brogan Roback
 
+-RB Matthew Dayes
+
+-RB Dontrell Hillard
+
+-FB Dan Vitale
+
 -WR Jeff Janis
 
 -WR C.J. Board (Injured)
+
+-WR Blake Jackson
+
+-WR Da'Mari Scott
 
 -TE Stephen Baggett
 
@@ -30,6 +40,10 @@ The Cleveland Browns have cut the following players in order to trim their roste
 
 -OL Fred Lauina
 
+-OL Spencer Drango
+
+-OL Christian DiLauro
+
 <br>
 
 ### Defensive Players Cut
@@ -40,13 +54,27 @@ The Cleveland Browns have cut the following players in order to trim their roste
 
 -DL Blaine Woodson
 
+-DL Caleb Brantley
+
+-DL Nate Orchard
+
+-DL Daniel Ekuale
+
+-DL Zaycoven Henderson
+
 -LB Justin Currie (Injured)
 
--LB Brady Sheldon
+-LB B.J. Bello
 
 -CB Christian Boutte
 
 -CB Michael Jordan
+
+-CB Montrel Meander
+
+-CB Tigie Sankoh
+
+-CB Simeon Thomas
 
 -S Elijah Campbell
 
