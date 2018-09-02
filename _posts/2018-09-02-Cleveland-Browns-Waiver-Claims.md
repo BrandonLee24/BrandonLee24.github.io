@@ -14,15 +14,18 @@ With first choice of all the players cut yesterday, the Cleveland Browns added 5
 
 ## Offense
 
-#### OL Aaron Neary
-
 <br>
+
+
+#### OL Aaron Neary
 
 Neary, an undrafted free agent in 2016, was on the Rams' practice squad all last year before starting in their final game of the regular season. The 6-4, 300 pound lineman is listed as a center.
 
 <br>
 
 ## Defense
+
+<br>
 
 #### DL Carl Davis
 
