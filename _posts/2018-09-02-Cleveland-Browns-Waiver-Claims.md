@@ -8,7 +8,7 @@ author: Brandon Lee
 thumbnail: logo.png
 ---
 
-With first choice of all the players cut yesterday, the Cleveland Browns added 5 players, 1 on offense and 4 on defense. 2 players cut by the Browns, cornerbacks Simeon Thomas and Mike Jordan, were claimed by teams today as well.
+With first choice of all the players cut yesterday, the Cleveland Browns added 5 players, 1 on offense and 4 on defense. 2 players cut by the Browns, cornerbacks Simeon Thomas and Mike Jordan, were claimed by teams today as well. In corresponding moves, the team waived OL Austin Reiter, DL Jamie Meder, DL Carl Nassib, LB Jermaine Grace, and DB Jeremiah Mckinnon.
 
 <br>
 
