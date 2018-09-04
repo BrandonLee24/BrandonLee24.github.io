@@ -5,7 +5,7 @@ date: 2018-09-04 12:00
 category: News
 tags: year2
 author: Brandon Lee
-thumbnail: logo.png
+thumbnail: practice squad.jpg
 ---
 
 The Cleveland Browns have announced 11 players who have been signed to the practice squad, 9 of which have formerly spent time with the team.
