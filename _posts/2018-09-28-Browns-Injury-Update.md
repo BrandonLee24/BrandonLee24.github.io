@@ -51,7 +51,7 @@ A team captain, Kirksey missed the last 2 games with a shoulder and ankle injury
 
 <br>
 
-## Seth Devalve
+## Seth Devalve (TE)
 
 <br>
 
