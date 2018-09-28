@@ -5,7 +5,7 @@ date: 2018-09-27 12:00
 category: Analysis
 tags: year2
 author: Brandon Lee
-thumbnail: logo.png
+thumbnail: browns rookies.jpg
 ---
 
 
@@ -67,4 +67,21 @@ The Browns traded up in the fourth round to select the troubled receiver, but in
 
 <br>
 
-When selected in the 5th round, few had ever heard of the former Memphis linebacker, but his name is known to Browns fans and opposing defenses now. 
+When selected in the 5th round, few had ever heard of the former Memphis linebacker, but his name is known to Browns fans and opposing defenses now. He has become one of the Browns better pass rushers already and continues to blitz off the edge. Last week agaisnt the Jets, Avery had a critical pass breakup and has constantly disrupted plays. He is one of the highest graded rookies so far (per PFF) and the Browns hope to continue to utilize his skill set.
+
+<br>
+
+## 175th - Damion Ratley (WR)
+
+<br>
+
+Out of Texas A&M, the 6'3 Ratley made the roster but has yet to make an impact. He is raw but displyed enough potential in the preseason to maintain his spot with the team. He has solid size and if an injury occured Ratley could see an increase in snaps. As the season progresses, I expect Ratley's role to grow, but for now he needs to focus on special teams.
+
+<br>
+
+## 188th - Simeon Thomas (DB)
+
+<br>
+ 
+Drafted in the 6th round, Thomas was beloved for his 6'3 frame and was seen as a sleeper who could make the roster. Unfortunatley he did not and was picked up by . Out of Louisiana Lafayette, the cornerback was simply a potential player, but Hue Jackson and John Dorsey did not see enough to keep him around. He is currently on the Seattle Seahawks 53 man roster and hopes to continue to learn and grow. 
+
