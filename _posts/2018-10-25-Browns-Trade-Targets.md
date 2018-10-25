@@ -5,7 +5,7 @@ date: 2018-10-25 12:00
 category: Analysis
 tags: year2
 author: Brandon Lee
-thumbnail: 
+thumbnail: logo.png
 ---
 
 As the trade deadline appraches, the Browns may look to address needs at a few positions and trade for additional players. Below we analyze what positions the Browns need to address and players they could realistically trade for.
