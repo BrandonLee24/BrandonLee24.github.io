@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Browns Inactives vs Chiefs
-date: 2018-11-02 12:00
+date: 2018-11-04 12:00
 category: News
 tags: year2
 author: Brandon Lee
