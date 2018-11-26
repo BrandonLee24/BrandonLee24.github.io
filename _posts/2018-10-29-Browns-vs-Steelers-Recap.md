@@ -2,7 +2,7 @@
 layout: post
 title: Browns vs Steelers Recap
 date: 2018-10-29 12:00
-category: news
+category: News
 tags: year2
 author: Brandon Lee
 thumbnail: Nick Chubb.webp
