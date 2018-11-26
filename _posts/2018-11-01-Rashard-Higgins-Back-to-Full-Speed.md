@@ -2,7 +2,7 @@
 layout: post
 title: Rashard Higgins Back to Full Speed
 date: 2018-11-01 12:00
-category: news
+category: News
 tags: year2
 author: Brandon Lee
 thumbnail: Higgins.jpg
