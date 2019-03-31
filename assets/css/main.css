@@ -94,14 +94,16 @@ footer {
   position: absolute;
   z-index: 2;
   width: 18%;
-  padding: 20px 0; }
+  padding: 20px; }
   #left-sidebar .left-sidebar-content {
     background-color: #EC5614;
     height: calc(100vh - 102px);
+    border-left: 3px solid #342624;
     border-right: 3px solid #342624;
     border-top: 3px solid #342624;
     border-bottom: 3px solid #342624;
-    overflow: hidden; }
+    overflow: hidden;
+    border-radius: 10px; }
     #left-sidebar .left-sidebar-content .left-sidebar-title {
       color: #342624;
       text-align: center;
@@ -150,7 +152,8 @@ footer {
       margin: 10px 0;
       border: 3px solid #342624;
       display: flex;
-      overflow: hidden; }
+      overflow: hidden;
+      border-radius: 10px; }
       #main-content .article-content .article .article-left {
         width: 60%;
         display: inline; }
@@ -262,14 +265,16 @@ footer {
   right: 0%;
   z-index: 2;
   width: 18%;
-  padding: 20px 0; }
+  padding: 20px; }
   #right-sidebar .right-sidebar-content {
     background-color: #342624;
     height: calc(100vh - 102px);
+    border-right: 3px solid #EC5614;
     border-left: 3px solid #EC5614;
     border-top: 3px solid #EC5614;
     border-bottom: 3px solid #EC5614;
-    overflow: hidden; }
+    overflow: hidden;
+    border-radius: 10px; }
     #right-sidebar .right-sidebar-content .right-sidebar-title {
       color: #EC5614;
       text-align: center;
